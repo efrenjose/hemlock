@@ -9,5 +9,5 @@ var routes = {
 exports = module.exports = function(app) {
     app.get('/', routes.views.index);
     app.get('/add-event', routes.views.addEvent);
-    app.post('/api/event', routes.api.event.post)
+    app.post('/add-event', routes.api.event.post)
 };
