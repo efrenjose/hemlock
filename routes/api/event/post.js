@@ -1,15 +1,17 @@
 var keystone = require('keystone');
-var Event = keystone.List('Event');
+var Event = keystone.list('Event');
 
 module.exports = function (req, res) {
   if (!req.body.name || !req.body.startTime || !req.body.endTime) {
     return res.send({ status: 'incomplete data set' });
   }
-
+ 
+  console.log('before event models');
   var newEvent = new Event.model();
   Event.updateItem(newEvent, req.body, function (error) {
     res.locals.enquirySubmitted = true;
     if (error) res.locals.saveError = true;
     res.render('addEvent');
   });
+
 };
