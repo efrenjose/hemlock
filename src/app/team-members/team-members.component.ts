@@ -8,7 +8,7 @@ import { TeamMember } from '../shared/team-member.model';
   styleUrls: ['./team-members.component.css']
 })
 export class TeamMembersComponent implements OnInit {
-  teamMembers = [];
+  teamMembers: TeamMember[];
 
   constructor(private teamMembersService: TeamMembersService) { }
 

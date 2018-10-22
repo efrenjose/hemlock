@@ -8,7 +8,7 @@ TeamMember.add({
     email: { type: Types.Email },
     phone: { type: String },
     school: { type: String },
-    bio: { type: Types.Html, wysiwyg: true }
+    bio: { type: Types.Textarea, wysiwyg: true }
 })
 
 TeamMember.register();

@@ -18,9 +18,4 @@ export class TeamMembersService {
     return this.http.get(BASE_URL)
       .pipe();
   }
-
-  // getHeroes (): Observable<TeamMember[]> {
-  //   return this.http.get<TeamMember[]>(BASE_URL)
-  //     .pipe();
-  // }
 }
