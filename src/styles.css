@@ -109,14 +109,14 @@ img {
     font-family: 'Raleway', sans-serif;
 }
 .theme-btn {
-    background: #15aa19 none repeat scroll 0 0;
+    background: #A4BCC2 none repeat scroll 0 0;
     color: #fff;
     margin-top: 30px;
 }
 .btn {
     display: inline-block;
     text-align: center;
-    border: 3px solid #15aa19;
+    border: 3px solid #A4BCC2;
     border-radius: 2px;
     position: relative;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.2);
@@ -172,7 +172,7 @@ img {
     margin: 0;
 }
 .section-title span {
-    color: #15aa19;
+    color: #A4BCC2;
 }
 .car-icon {
     display: inline-block;
@@ -259,7 +259,7 @@ hr {
 	top: -15px;
 	height: 100%;
 	width: 100%;
-	border-top: 15px solid #15aa19;
+	border-top: 15px solid #A4BCC2;
 	opacity: 0.8;
 	border-left: 15px solid transparent;
 	border-bottom: 15px solid transparent;
@@ -293,9 +293,9 @@ hr {
 	height: 70px;
 	border: 20px solid;
 	border-radius: 50%;
-	border-top-color: #15aa19 ;
+	border-top-color: #A4BCC2 ;
 	border-left-color: #fff;
-	border-bottom-color: #15aa19 ;
+	border-bottom-color: #A4BCC2 ;
 	border-right-color: #fff;
 	opacity: 0.5;
 	animation: goor 5s infinite;
@@ -457,7 +457,7 @@ hr {
 	position: relative;
 }
 .main-menu-area .logo::before {
-    background: #15aa19;
+    background: #A4BCC2;
     content: "";
     height: 100%;
     position: absolute;
@@ -479,7 +479,7 @@ hr {
 }
 .logo-two {
 	text-align: center;
-	background-color: #15aa19;
+	background-color: #A4BCC2;
 	max-width: 390px;
 	margin: auto;
 	padding: 15px;
@@ -1098,13 +1098,13 @@ hr {
     overflow: hidden;
 }
 .upper-line {
-    background: #15aa19 none repeat scroll 0 0;
+    background: #A4BCC2 none repeat scroll 0 0;
     height: 2px;
     margin: 0 auto 5px;
     width: 75px;
 }
 .bottom-line {
-    background: #15aa19 none repeat scroll 0 0;
+    background: #A4BCC2 none repeat scroll 0 0;
     height: 2px;
     margin: 0 auto;
     width: 42px;
@@ -1273,8 +1273,8 @@ hr {
     -webkit-transition: all 0.4s ease 0s;
 }
 .box .icon li a:hover{
-    background: #15aa19;
-    border-color: #15aa19;
+    background: #A4BCC2;
+    border-color: #A4BCC2;
 }
 /* ==============
     End Services Area CSS 
@@ -1323,7 +1323,7 @@ hr {
     -webkit-transition: .4s;
 }
 .vertical-menu ul li a:hover, .vertical-menu ul li.active a {
-    background-color: #15aa19;
+    background-color: #A4BCC2;
     color: #fff;
 }
 .vertical-menu .fa.fa-arrow-circle-right {
@@ -1533,7 +1533,7 @@ hr {
     -webkit-transition: .4s;
 }
 .single-item-boxed:hover .single-icon {
-   background-color: #15aa19; 
+   background-color: #A4BCC2; 
 }
 .single-item-boxed {
   margin-bottom: 20px;
@@ -1588,7 +1588,7 @@ hr {
     transition: all 0.2s ease-in-out 0s;
     -webkit-transition: all 0.2s ease-in-out 0s;
     width: 50px;
-	color: #15aa19;
+	color: #A4BCC2;
 }
 .single-boxed i {
 	font-size: 26px;
@@ -1742,43 +1742,43 @@ hr {
 }
 /*---------Service Icons ------------*/
 .apartment .service_icon {
-	background: #15aa19 url("./assets/img/icon/home.png") no-repeat center / 45% 45%;
+	background: #A4BCC2 url("./assets/img/icon/home.png") no-repeat center / 45% 45%;
 }
 .apartment:hover .service_icon {
 	background: #202020 url("./assets/img/icon/home.png") no-repeat center / 45% 45%;
 }
 .office .service_icon {
-	background: #15aa19 url("./assets/img/icon/office.png") no-repeat center / 45% 45%;
+	background: #A4BCC2 url("./assets/img/icon/office.png") no-repeat center / 45% 45%;
 }
 .office:hover .service_icon {
 	background: #202020 url("./assets/img/icon/office.png") no-repeat center / 45% 45%;
 }
 .move_in_out .service_icon {
-	background: #15aa19 url("./assets/img/icon/express.png") no-repeat center / 45% 45%;
+	background: #A4BCC2 url("./assets/img/icon/express.png") no-repeat center / 45% 45%;
 }
 .move_in_out:hover .service_icon {
 	background: #202020 url("./assets/img/icon/express.png") no-repeat center / 45% 45%;
 }
 .car_washing .service_icon {
-	background: #15aa19 url("./assets/img/icon/white_car.png") no-repeat center / 45% 45%;
+	background: #A4BCC2 url("./assets/img/icon/white_car.png") no-repeat center / 45% 45%;
 }
 .car_washing:hover .service_icon {
 	background: #202020 url("./assets/img/icon/white_car.png") no-repeat center / 45% 45%;
 }
 .renovation .service_icon {
-	background: #15aa19 url("./assets/img/icon/white_paintbrush.png") no-repeat center / 45% 45%;
+	background: #A4BCC2 url("./assets/img/icon/white_paintbrush.png") no-repeat center / 45% 45%;
 }
 .renovation:hover .service_icon {
 	background: #202020 url("./assets/img/icon/white_paintbrush.png") no-repeat center / 45% 45%;
 }
 .green_cleaning .service_icon {
-	background: #15aa19 url("./assets/img/icon/white_leaf.png") no-repeat center / 45% 45%;
+	background: #A4BCC2 url("./assets/img/icon/white_leaf.png") no-repeat center / 45% 45%;
 }
 .green_cleaning:hover .service_icon {
 	background: #202020 url("./assets/img/icon/white_leaf.png") no-repeat center / 45% 45%;
 }
 .service_middle {
-	border-color: #15aa19;
+	border-color: #A4BCC2;
 }
 
 /* ==== Services V.2 ===*/
@@ -1855,12 +1855,12 @@ hr {
   width: 130px;
 }
 .services-item-two .single-links li a:hover{
-    background: #15aa19;
-    border: 1px solid #15aa19;
+    background: #A4BCC2;
+    border: 1px solid #A4BCC2;
 }
 .services-item-two .services-item-info{
     padding: 20px;
-    background: #15aa19;
+    background: #A4BCC2;
     color: #eee;
     text-align: center;
     position: relative;
@@ -2000,7 +2000,7 @@ hr {
     background-image: url(assets/img/banner-man-bg.png);
 }
 .banner-boxed span {
-    color: #15aa19;
+    color: #A4BCC2;
 }
 .banner-boxed > h2 {
   font-size: 33px;
@@ -2021,8 +2021,8 @@ hr {
     Our Team Area CSS 
 ======================== */
 .our-team{
-    border-left: 8px solid #15aa19;
-    border-bottom: 8px solid #15aa19;
+    border-left: 8px solid #A4BCC2;
+    border-bottom: 8px solid #A4BCC2;
     margin-top: 40px;
 }
 .our-team .team-image{
@@ -2058,7 +2058,7 @@ hr {
     position: absolute;
     top: 40px;
     left: -27px;
-    background: #15aa19;
+    background: #A4BCC2;
     text-align: center;
     transform: translate(25px, 0px) rotateY(90deg);
     transition: all 0.5s ease 0s;
@@ -2344,7 +2344,7 @@ hr {
     -webkit-transition: .4s;
 }
 .blog-item-info h3:hover {
-    color: #15aa19;
+    color: #A4BCC2;
 }
 .blog-date {
     font-size: 14px;
@@ -2356,7 +2356,7 @@ hr {
   background-color: #72c02c;  
 }
 .blue {
-  background-color: #15aa19;  
+  background-color: #A4BCC2;  
 }
 .blog-tags {
   font-size: 13px;
@@ -2410,8 +2410,8 @@ a.pagi-arrow {
   padding: 5px 29px;
 }
 a.pagi-arrow:hover {
-    color: #15aa19;
-    border: 1px solid #15aa19;
+    color: #A4BCC2;
+    border: 1px solid #A4BCC2;
 }
 a.pagi-number {
   border: 1px solid #eee;
@@ -2428,9 +2428,9 @@ a.pagi-number {
     -webkit-transition: .5s;
 }
 a.pagi-number:hover, .pagination-area li.active a.pagi-number {
-    background-color: #15aa19;
+    background-color: #A4BCC2;
     color: #fff;
-    border: 1px solid #15aa19;
+    border: 1px solid #A4BCC2;
 }
 .blog-content .single-blog-item {
   margin-top: 0;
@@ -2445,14 +2445,14 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     position: relative;
 }
 .blog-serch-form > input {
-  border: 1px solid #15aa19;
+  border: 1px solid #A4BCC2;
   height: 45px;
   padding: 15px;
   width: 100%;
 }
 .blog-serch-form > button {
-  background: #15aa19 none repeat scroll 0 0;
-  border: 1px solid #15aa19;
+  background: #A4BCC2 none repeat scroll 0 0;
+  border: 1px solid #A4BCC2;
   color: #fff;
   height: 45px;
   position: absolute;
@@ -2482,7 +2482,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
 }
 .widget-follow-us ul li a {
 	font-size: 20px;
-	color: #15aa19;
+	color: #A4BCC2;
 }
 .single-popular-news-item img {
     float: left;
@@ -2560,7 +2560,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     -webkit-transition: .4s;
 }
 .widget-tags ul li a:hover {
-    background: #15aa19;
+    background: #A4BCC2;
     color: #fff;
 }
 .single-blog-post {
@@ -2626,8 +2626,8 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     height: auto;
 }
 .btn-common {
-    background-color: #15aa19;
-    border-color: #15aa19;
+    background-color: #A4BCC2;
+    border-color: #A4BCC2;
     color: #fff;
 }
 /* ==============
@@ -2660,7 +2660,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     background: #262829;
 }
 .footer-logo {
-  background: #15aa19;
+  background: #A4BCC2;
   display: inline-block;
   margin-bottom: 20px;
   padding: 15px;
@@ -2684,7 +2684,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
   text-transform: uppercase;
 }
 .footer-top-area a:hover {
-    color: #15aa19;
+    color: #A4BCC2;
 }
 .footer-wid {
     padding: 0 0 40px;
@@ -2723,7 +2723,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     -webkit-transition: .4s;
 }
 .subscribe button:hover {
-    background-color: #15aa19;
+    background-color: #A4BCC2;
 }
 .social-icos {
   padding: 0 0 40px;
@@ -2739,7 +2739,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
   width: 34px;
 }
 .social-icos a:hover {
-    background: #15aa19;
+    background: #A4BCC2;
     color: #fff;
 }
 .footer-copyright-area {
@@ -2879,13 +2879,13 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     -webkit-transition: all 0.3s ease 0s;
 }
 .gallery-item-one .lightbox-link li a:hover{
-    background: #15aa19;
-    border-color: #15aa19;
+    background: #A4BCC2;
+    border-color: #A4BCC2;
 }
 .gallery-item-one .gallery-content{
     padding: 15px 0;
     background: #323232;
-    border-top: 2px solid #15aa19;
+    border-top: 2px solid #A4BCC2;
     overflow: hidden;
     position: relative;
 }
@@ -2893,7 +2893,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     content: "";
     width: 100%;
     height: 100%;
-    background: #15aa19;
+    background: #A4BCC2;
     position: absolute;
     top: -100%;
     left: 0;
@@ -3169,24 +3169,24 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
 .signup-form .btn {        
     font-size: 16px;
     font-weight: bold;
-    background: #15aa19;
+    background: #A4BCC2;
     border-radius: 3px;
     border: none;
     min-width: 140px;
     outline: none !important;
 }
 .signup-form .btn:hover, .signup-form .btn:focus {
-    background: #15aa19;
+    background: #A4BCC2;
 }
 .signup-form a {
-    color: #15aa19;
+    color: #A4BCC2;
     text-decoration: underline;
 }
 .signup-form a:hover {
     text-decoration: none;
 }
 .signup-form form a {
-    color: #15aa19;
+    color: #A4BCC2;
     text-decoration: none;
 }	
 .signup-form form a:hover {
